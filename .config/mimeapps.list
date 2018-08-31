@@ -1,0 +1,10 @@
+[Added Associations]
+text/plain=geany.desktop;
+image/svg+xml=geany.desktop;
+application/x-shellscript=geany.desktop;vim.desktop;
+application/x-theme=geany.desktop;
+application/pdf=mupdf.desktop;libreoffice-draw.desktop;
+audio/x-vorbis+ogg=vlc.desktop;
+audio/x-wav=vlc.desktop;
+application/x-xz-compressed-tar=Thunar-folder-handler.desktop;
+text/x-mpsub=geany.desktop;

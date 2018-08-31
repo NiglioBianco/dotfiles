@@ -1,0 +1,5 @@
+<Configuration>
+  <AddinStatus>
+    <Addin id="Docky.Trash" enabled="False" />
+  </AddinStatus>
+</Configuration>
